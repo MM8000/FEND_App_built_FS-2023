@@ -1,3 +1,5 @@
-# FEND_App_built_FS-2023
+# FEND_FITNESSAPP_MB
 
-This App built is for study reasons only and is developed as state of process with the OC-FEND programme.
+YOLO!
+
+this is a work in progress with the FEND Programme of Opencampus Kiel...
